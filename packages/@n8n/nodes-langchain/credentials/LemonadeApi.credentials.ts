@@ -24,7 +24,7 @@ export class LemonadeApi implements ICredentialType {
 			name: 'baseUrl',
 			required: true,
 			type: 'string',
-			default: 'http://localhost:8000/api/v1',
+			default: 'http://localhost:13305/api/v1',
 		},
 		{
 			displayName: 'API Key',
